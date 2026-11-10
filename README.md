@@ -13,10 +13,12 @@ The memory chart shows the cumulative change across consecutive October 26 stora
 
 ## Screenshots
 
-- [Terminal workspace and Docker tools](https://analysedecircuit.github.io/oxideterm-media/screenshots/2.3.1/workspace-docker.png)
-- [Mixed four-pane workspace](https://analysedecircuit.github.io/oxideterm-media/screenshots/2.3.1/mixed-workspace.png)
+- Terminal workspace and Docker tools: [framed PNG](https://analysedecircuit.github.io/oxideterm-media/screenshots/2.3.1/workspace-docker-framed.png) · [transparent original](https://analysedecircuit.github.io/oxideterm-media/screenshots/2.3.1/workspace-docker.png)
+- Mixed four-pane workspace: [framed PNG](https://analysedecircuit.github.io/oxideterm-media/screenshots/2.3.1/mixed-workspace-framed.png) · [transparent original](https://analysedecircuit.github.io/oxideterm-media/screenshots/2.3.1/mixed-workspace.png)
 
 Screenshot account names, hosts, addresses, paths, file entries and monitoring values have been replaced with demonstration data. PNG screenshots retain transparent window corners without an outer black matte.
+
+Framed versions add a dark gradient background and soft shadow for articles with a light background. Screenshot contents and resolution are preserved; transparent originals remain available at their published paths.
 
 ## Asset conventions
 
