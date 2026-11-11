@@ -20,6 +20,10 @@ Screenshot account names, hosts, addresses, paths, file entries and monitoring v
 
 Framed versions add a dark gradient background and soft shadow for articles with a light background. Screenshot contents and resolution are preserved; transparent originals remain available at their published paths.
 
+## Demos
+
+- [Edit a file inside a Docker container](https://analysedecircuit.github.io/oxideterm-media/demos/2.3.1/container-file-edit.gif): open the container terminal from the Docker sidebar, switch to the graphical text editor, edit and save. Full-frame 3644 × 2216 GIF at 50 fps; connection details and unrelated container metadata use demonstration values.
+
 ## Asset conventions
 
 - Upload only final, sanitized assets. Keep original captures, credentials and temporary processing files outside this repository.
